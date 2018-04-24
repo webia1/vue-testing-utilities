@@ -1,5 +1,11 @@
 # Vue Testing Utilities
-The most complete List of Vue-Testing-Utilities
+
+In principle, almost any unit test framework can be used with Vue. Following examples are listed on the official [Vue Test Utils GitHub Page](https://github.com/vuejs/vue-test-utils)
+
+- [Example with Jest](https://github.com/vuejs/vue-test-utils-jest-example)
+- [Example with Mocha](https://github.com/vuejs/vue-test-utils-mocha-webpack-example)
+- [Example with tape](https://github.com/eddyerburgh/vue-test-utils-tape-example)
+- [Example with AVA](https://github.com/eddyerburgh/vue-test-utils-ava-example)
 
 # Unit Testing
 ## [Jest](https://facebook.github.io/jest/)

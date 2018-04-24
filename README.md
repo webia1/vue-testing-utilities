@@ -26,3 +26,4 @@ In principle, almost any unit test framework can be used with Vue. Following exa
 #### [Testcafe Visual Studio Code Extension](https://github.com/romanresh/vscode-testcafe)
 ### Literatur
 #### [Hackernoon: A modern way to to E2E testing for VueJS Apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
+#### [Alligator.io: E2E Testing VueJS Apps with TestCafe](https://alligator.io/vuejs/e2e-testing-testcafe/)

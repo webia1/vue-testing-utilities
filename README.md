@@ -10,6 +10,9 @@ In principle, almost any unit test framework can be used with Vue. Following exa
 # Unit Testing
 ## [Jest](https://facebook.github.io/jest/)
 ### [Jest Vue Transformer](https://github.com/vuejs/vue-jest)
+## [Tape](https://github.com/substack/tape)
+### Literatur
+#### [Medium: Blazing fast Vue Unit Tests](https://medium.freecodecamp.org/how-to-write-blazing-fast-vue-unit-tests-with-tape-and-vue-test-utils-be069ccd4acf?ref=madewithvuejs.com)
 
 # E2E Testing
 ## [Cypress.io](https://devexpress.github.io/testcafe/)

@@ -7,6 +7,7 @@ In principle, almost any unit test framework can be used with Vue. Following exa
 - [Example with tape](https://github.com/eddyerburgh/vue-test-utils-tape-example)
 - [Example with AVA](https://github.com/eddyerburgh/vue-test-utils-ava-example)
 
+[Vue Test Utils](https://vue-test-utils.vuejs.org/en/) is the official unit testing utility library for Vue.js. 
 # Unit Testing
 ## [Jest](https://facebook.github.io/jest/)
 ### [Jest Vue Transformer](https://github.com/vuejs/vue-jest)

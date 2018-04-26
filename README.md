@@ -13,6 +13,16 @@ In principle, almost any unit test framework can be used with Vue. Following exa
 ### [Ava Testing Vue](https://github.com/avajs/ava/blob/master/docs/recipes/vue.md)
 ### [Ava Vue Hooks](require-extension-hooks)
 ## [Jest](https://facebook.github.io/jest/)
+### Features
+Jest provides the whole package:
+- Test Environment & Structure
+- Assertion Functions
+- Display & Watch
+- Snapshots (Changes with Previous Versionen of Components/Structures/..)
+- Mocks, Spies, Stubs
+- Code Coverage
+- [Testing async API calls using Jest’s mocking features (React)](https://hackernoon.com/api-testing-with-jest-d1ab74005c0a)
+
 ### [Jest Vue Transformer](https://github.com/vuejs/vue-jest)
 ## [Tape](https://github.com/substack/tape)
 ### Literatur
